@@ -2,7 +2,11 @@
 
 N741_Spring2024_week2
 
+<<<<<<< HEAD
 Melinda Higgins
+=======
+Melinda's copy
+>>>>>>> 1572f9fc9ef3740b720b10cf7fef84279590a5d8
 
 ## Slides for Today
 
